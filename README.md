@@ -1,2 +1,3 @@
-# Yash-Giri
-Personal portfolio built with React and TypeScript
+# Yash Giri
+
+🌐 Live Demo: https://yashgit1203.github.io/
