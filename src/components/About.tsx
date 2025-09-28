@@ -76,8 +76,8 @@ export function About() {
                   <h3 className="text-xl">The Human</h3>
                 </div>
                 <p className="text-muted-foreground leading-relaxed">
-                  When I'm not coding, you'll find me experimenting with new coffee brewing methods, hiking Bay Area trails, 
-                  or mentoring junior developers. I believe the best code comes from a balanced life.
+                  When I'm not coding, you'll find me experimenting with new coffee brewing methods, 
+                  mentoring junior developers. I believe the best code comes from a balanced life.
                 </p>
               </div>
             </div>
