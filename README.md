@@ -1,7 +1,7 @@
 
 # Yash Giri
 
-🌐 Live Demo: https://yashgit1203.github.io/
+🌐 Live Demo: https://yash-giri.vercel.app
 
 ## Running the code
 
